@@ -7,3 +7,5 @@ Changedddddddddddddddddd But Should not be reflected But added to stagef diles &
 3.Try to reverse a commit
 4.Add Diff Pull
 5.Create 2 branch  checkout and add
+
+Ignoringggggggggggg
