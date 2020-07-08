@@ -1,0 +1,8 @@
+Hello User
+
+
+1.Delete a file in local without gitignore & Upload -> File Should be deleted.
+2.Add gitignore delete and upload wont get deleted
+3.Try to reverse a commit
+4.Add Diff Pull
+5.Create 2 branch  checkout and add
