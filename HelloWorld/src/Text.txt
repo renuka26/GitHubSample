@@ -1,5 +1,6 @@
 Hello User
 
+Changedddddddddddddddddd But Should not be reflected But added to stagef diles & Ignore files
 
 1.Delete a file in local without gitignore & Upload -> File Should be deleted.
 2.Add gitignore delete and upload wont get deleted
